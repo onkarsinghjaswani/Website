@@ -1,0 +1,15 @@
+
+body {
+  font-family: 'Helvetica Neue', sans-serif;
+  background-color: #ffffff;
+  color: #222;
+}
+.navbar-brand, .navbar-nav > li > a {
+  font-weight: 600;
+}
+h1, h2, h3 {
+  color: #0d3b66;
+}
+a {
+  color: #f4a261;
+}
